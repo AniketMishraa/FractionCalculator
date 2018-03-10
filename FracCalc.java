@@ -1,8 +1,3 @@
-/*Aniket Mishra
- * Pd 1
- * Frac Calc Checkpoint Final
- * 12/18/17
- */
 
 package fracCalc;
 import java.util.Scanner;
